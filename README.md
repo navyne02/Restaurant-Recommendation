@@ -148,7 +148,7 @@ The engine runs on a Zomato-style restaurant dataset with the following key colu
 | `Aggregate rating` | Mean user rating (0–5) |
 | `Votes` | Total number of user reviews |
 
-> 📌 Source: [Zomato Restaurants Dataset — Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data)
+> 📌 Dataset: [Dataset.csv](https://github.com/navyne02/Restaurant-Recommendation/blob/main/Dataset.csv) — available directly in this repository
 
 ---
 
